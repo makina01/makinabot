@@ -1,0 +1,7 @@
+telethon
+youtube-dl
+hachoir
+requests
+bs4
+flask
+python-telegram-bot

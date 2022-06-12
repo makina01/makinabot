@@ -1,0 +1,1 @@
+python3 generic.py cola.txt & python3 bot.py
